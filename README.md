@@ -3,4 +3,4 @@
 layout training
 
 Feature Layout
-![feature_layout](https://github.com/bjg2327/android_layout/blob/main/ReadMeImage/feature_layout.png "feature")
+<img src="https://github.com/bjg2327/android_layout/blob/main/ReadMeImage/feature_layout.png" width="320px">
